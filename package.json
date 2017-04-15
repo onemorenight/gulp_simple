@@ -1,0 +1,28 @@
+{
+  "name": "gulpsimple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onemorenight/gulp_simple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onemorenight/gulp_simple/issues"
+  },
+  "homepage": "https://github.com/onemorenight/gulp_simple#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-cached": "^1.1.1",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-marked": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "require-dir": "^0.3.1"
+  }
+}
